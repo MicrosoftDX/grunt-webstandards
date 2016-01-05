@@ -1,0 +1,21 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+    {
+      "name": "Run Tests",
+      "type": "node",
+      "program": "node_modules/grunt-cli/bin/grunt",
+      "stopOnEntry": false,
+      "args": ["test"],
+      "cwd": ".",
+      "runtimeExecutable": null,
+      "env": { "NODE_ENV": "development"}
+    },
+		{
+			"name": "Attach",
+			"type": "node",
+			"request": "attach",
+			"port": 5858
+		}
+	]
+}
