@@ -8,7 +8,7 @@ libraries, using responsive web design, if you're defining platform icons, using
 an appropriate meta viewport, not using HTML object and embed, avoiding conditional
 comments, using a modern doctype and more! Powered by [Vorlon.JS](http://www.vorlonjs.com/).
 
-![grunt-webstandards](https://raw.github.com/MicrosoftDX/grunt-webstandards/master/demo.gif)
+![grunt-webstandards](https://github.com/MicrosoftDX/grunt-webstandards/raw/master/demo.gif)
 
 ## Getting Started
 This plugin requires Grunt.
